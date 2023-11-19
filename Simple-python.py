@@ -1,0 +1,1 @@
+print("simple program just to learn git")
